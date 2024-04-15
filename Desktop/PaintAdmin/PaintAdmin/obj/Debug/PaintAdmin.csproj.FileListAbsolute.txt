@@ -1,0 +1,345 @@
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\PaintAdmin.exe.config
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\PaintAdmin.exe
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\PaintAdmin.pdb
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.csproj.AssemblyReference.cache
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AdminMenu.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\MainWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\App.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin_MarkupCompile.cache
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin_MarkupCompile.lref
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AdminMenu.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\MainWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.g.resources
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.Properties.Resources.resources
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.csproj.GenerateResource.cache
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.csproj.CoreCompileInputs.cache
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.csproj.CopyComplete
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.exe
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.pdb
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\CityWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\RalColorsWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\ShineWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\StatusDeliveryWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\TempPulvirizationWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\TypeSurfaceWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\UserWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\CityWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\RalColorsWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\ShineWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\StatusDeliveryWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\TempPulvirizationWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\TypeSurfaceWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\UserWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AddRalColorsWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\UpdateRalWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AddRalColorsWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\UpdateRalWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\TypeApplicationWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\TypeApplicationWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\UpdateUserWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\UpdateUserWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\WareHouseWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\WareHouseWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\ProductWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\ProductWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AddProductWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AddProductWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\System.Buffers.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\System.Memory.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\System.Buffers.xml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\System.Memory.xml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\UpdateProductWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\UpdateProductWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AddDiscountWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\DiscountWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\UpdateDiscountWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AddDiscountWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\DiscountWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\UpdateDiscountWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\DeliveryWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\DeliveryWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\MoreDeliveryWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\MoreDeliveryWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AddNewsWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\ClientManagerMenu.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\NewsWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AddNewsWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\ClientManagerMenu.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\NewsWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AddPhotoWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AddPhotoWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AboutNewsWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AboutNewsWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\ChangePhotoWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\ChangePhotoWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\FeedBackWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\FeedBackWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\WareHouseMenu.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\WareHouseMenu.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AddQuantityColorWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\UpdateQuantityColorWindow.g.cs
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\AddQuantityColorWindow.baml
+C:\Users\ameln\source\repos\PaintAdmin\PaintAdmin\obj\Debug\UpdateQuantityColorWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\PaintAdmin.exe.config
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\PaintAdmin.exe
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\PaintAdmin.pdb
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\System.Buffers.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\System.Memory.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\System.Buffers.xml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\System.Memory.xml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AboutNewsWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AddDiscountWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AddNewsWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AddPhotoWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AddProductWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AddQuantityColorWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AddRalColorsWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AdminMenu.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\ChangePhotoWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\CityWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\ClientManagerMenu.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\DeliveryWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\DiscountWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\FeedBackWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\MainWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\MoreDeliveryWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\NewsWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\ProductWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\RalColorsWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\ShineWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\StatusDeliveryWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\TempPulvirizationWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\TypeApplicationWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\TypeSurfaceWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\UpdateDiscountWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\UpdateProductWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\UpdateQuantityColorWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\UpdateRalWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\UpdateUserWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\UserWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\WareHouseMenu.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\WareHouseWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\App.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin_MarkupCompile.cache
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin_MarkupCompile.lref
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AboutNewsWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AddDiscountWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AddNewsWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AddPhotoWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AddProductWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AddQuantityColorWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AddRalColorsWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\AdminMenu.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\ChangePhotoWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\CityWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\ClientManagerMenu.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\DeliveryWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\DiscountWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\FeedBackWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\MainWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\MoreDeliveryWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\NewsWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\ProductWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\RalColorsWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\ShineWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\StatusDeliveryWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\TempPulvirizationWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\TypeApplicationWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\TypeSurfaceWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\UpdateDiscountWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\UpdateProductWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\UpdateQuantityColorWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\UpdateRalWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\UpdateUserWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\UserWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\WareHouseMenu.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\WareHouseWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.g.resources
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.Properties.Resources.resources
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.csproj.GenerateResource.cache
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.csproj.CoreCompileInputs.cache
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.csproj.CopyComplete
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.exe
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.pdb
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\StatisticsWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\StatisticsWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\LiveCharts.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\LiveCharts.pdb
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\LiveCharts.xml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\BackUpWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\BackUpWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ameln\Documents\Диплом\Desktop\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.csproj.AssemblyReference.cache
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\PaintAdmin.exe.config
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\PaintAdmin.exe
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\PaintAdmin.pdb
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\LiveCharts.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\System.Buffers.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\System.Memory.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\LiveCharts.pdb
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\LiveCharts.xml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\System.Buffers.xml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\System.Memory.xml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.csproj.AssemblyReference.cache
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AboutNewsWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AddDiscountWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AddNewsWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AddPhotoWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AddProductWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AddQuantityColorWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AddRalColorsWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AdminMenu.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\BackUpWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\ChangePhotoWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\CityWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\ClientManagerMenu.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\DeliveryWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\DiscountWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\FeedBackWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\MainWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\MoreDeliveryWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\NewsWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\ProductWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\RalColorsWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\ShineWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\StatisticsWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\StatusDeliveryWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\TempPulvirizationWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\TypeApplicationWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\TypeSurfaceWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\UpdateDiscountWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\UpdateProductWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\UpdateQuantityColorWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\UpdateRalWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\UpdateUserWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\UserWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\WareHouseMenu.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\WareHouseWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\App.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin_MarkupCompile.cache
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin_MarkupCompile.lref
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AboutNewsWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AddDiscountWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AddNewsWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AddPhotoWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AddProductWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AddQuantityColorWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AddRalColorsWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\AdminMenu.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\BackUpWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\ChangePhotoWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\CityWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\ClientManagerMenu.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\DeliveryWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\DiscountWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\FeedBackWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\MainWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\MoreDeliveryWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\NewsWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\ProductWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\RalColorsWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\ShineWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\StatisticsWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\StatusDeliveryWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\TempPulvirizationWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\TypeApplicationWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\TypeSurfaceWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\UpdateDiscountWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\UpdateProductWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\UpdateQuantityColorWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\UpdateRalWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\UpdateUserWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\UserWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\WareHouseMenu.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\WareHouseWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.g.resources
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.Properties.Resources.resources
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.csproj.GenerateResource.cache
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.csproj.CoreCompileInputs.cache
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.csproj.CopyComplete
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.exe
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\PaintAdmin.pdb
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\PrewiewWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\PrewiewWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\EmailWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\EmailWindow.baml
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\RestoreBackUpWindow.g.cs
+C:\Users\ameln\Documents\Диплом\Desktop\Desktop с установщиком\PaintAdmin\PaintAdmin\obj\Debug\RestoreBackUpWindow.baml

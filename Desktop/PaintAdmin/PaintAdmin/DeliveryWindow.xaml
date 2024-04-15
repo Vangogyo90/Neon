@@ -1,0 +1,91 @@
+﻿<Window x:Class="PaintAdmin.DeliveryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PaintAdmin"
+        mc:Ignorable="d"
+        Title="Neon" Height="800" Width="1200" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <ComboBox Name="cbStatus" Grid.Row="0" Grid.ColumnSpan="6" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="cbStatus_SelectionChanged" Loaded="cbStatus_Loaded" SelectedValuePath="IdStatusOrder" DisplayMemberPath="NameStatusOrder"/>
+
+        <DataGrid Name="DataAPI" Grid.Row="1" Grid.Column="0" ColumnWidth="*" Grid.ColumnSpan="6" Grid.RowSpan="3" CanUserAddRows="False" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" CellEditEnding="DataAPI_CellEditEnding" AutoGenerateColumns="False">
+            <DataGrid.ItemContainerStyle>
+                <Style TargetType="DataGridRow">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding IsDelivired}" Value="True">
+                            <Setter Property="Background" Value="LightGreen"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding IsPay}" Value="True">
+                            <Setter Property="Background" Value="ForestGreen"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding IsNotPay}" Value="True">
+                            <Setter Property="Background" Value="IndianRed"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding IsCancel}" Value="True">
+                            <Setter Property="Background" Value="Red"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding IsPickUp}" Value="True">
+                            <Setter Property="Background" Value="LightBlue"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding IsPoint}" Value="True">
+                            <Setter Property="Background" Value="CadetBlue"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.ItemContainerStyle>
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding IdDelivery, UpdateSourceTrigger=PropertyChanged}" Visibility="Hidden"/>
+                <DataGridTextColumn Binding="{Binding CityId, UpdateSourceTrigger=PropertyChanged}" Visibility="Hidden"/>
+                <DataGridTextColumn Binding="{Binding UserId, UpdateSourceTrigger=PropertyChanged}" Visibility="Hidden"/>
+                <DataGridTextColumn Binding="{Binding StatusOrderId, UpdateSourceTrigger=PropertyChanged}" Visibility="Hidden"/>
+                <DataGridTextColumn Binding="{Binding Cites.NameCity, UpdateSourceTrigger=PropertyChanged}" Header="Город" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding Adress, UpdateSourceTrigger=PropertyChanged}" Header="Адрес" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding Date, UpdateSourceTrigger=PropertyChanged}" Header="Дата заказа" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding StatusDeliveres.NameStatusOrder, UpdateSourceTrigger=PropertyChanged}" Header="Статус доставки" IsReadOnly="True"/>
+                <DataGridTemplateColumn Width="10" Header="↓">
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <ComboBox x:Name="StatusDelivey" Loaded="StatusDelivey_Loaded" Text="{Binding StatusDeliveres.NameStatusOrder, NotifyOnSourceUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" SelectedValue ="{Binding StatusOrderId, NotifyOnSourceUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" DisplayMemberPath = "NameStatusOrder" SelectedValuePath="IdStatusOrder" SelectionChanged="StatusDelivey_SelectionChanged"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Добавить чек">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Name="Cheque" Click="Cheque_Click">Добавить чек</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Подробнее">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Name="More" Click="More_Click">Подробнее</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button Name="Statistics" Content="Статистика" FontSize="20" VerticalAlignment="Center" Click="Statistics_Click" Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="6"/>
+        <Button Name="Exit" Content="Выйти" FontSize="20" VerticalAlignment="Center" Click="Exit_Click" Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="6"/>
+    </Grid>
+</Window>

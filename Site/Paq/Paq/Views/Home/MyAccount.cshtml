@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Мой аккаунт";
+    Layout = "_Layout";
+    @model Paq.Models.User;
+}
+<div align="center" class="Main_information" style="margin-bottom: 20px;">
+    <h2>Ваша информация:</h2>
+    <h3><strong>Фамилия:</strong> @Model.Surname</h3>
+    <h3><strong>Имя:</strong> @Model.Name</h3>
+    <h3><strong>Отчество:</strong> @Model.Patromymic</h3>
+    <h3><strong>Электронная почта:</strong> @Model.EMail</h3>
+    @if (Model.Verification)
+    {
+        <span style="color: green;">(подтверждено)</span>
+    }
+    else
+    {
+        <span style="color: red;">(не подтверждено)</span>
+        <p></p>
+        <form asp-action="SendMail" method="post">
+            <input type="hidden" name="Email" value="@Model.EMail">
+            <button type="submit" name="But">Подтвердить</button>
+        </form>
+    }
+    <h3><strong>Номер телефона:</strong> @Model.NumberTelephone</h3>
+    @if (Model.Verification_Number.HasValue && Model.Verification_Number.Value)
+    {
+        <span style="color: green;">(подтверждено)</span>
+    }
+    else
+    {
+        <span style="color: red;">(не подтверждено)</span>
+        <p></p>
+        <form asp-action="SendCode" method="post">
+            <button type="submit" name="But">Подтвердить</button>
+        </form>
+    }
+</div>

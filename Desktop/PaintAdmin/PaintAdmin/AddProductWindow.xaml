@@ -1,0 +1,51 @@
+﻿<Window x:Class="PaintAdmin.AddProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PaintAdmin"
+        mc:Ignorable="d"
+        Title="Neon" Height="600" Width="1000" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <Label Name="ColorLabel" Grid.Column="0" Grid.ColumnSpan="3" Grid.RowSpan="2"/>
+        <Button Name="Add" Content="Добавить" FontSize="30" VerticalAlignment="Center" Click="Add_Click" Grid.Column="0" Grid.Row="8" Grid.ColumnSpan="9"/>
+
+        <ComboBox Name="typeApplication" Text="Тип применения" SelectedValuePath="IdTypeApplication" DisplayMemberPath="NameTypeApplication" IsEditable="True" Grid.ColumnSpan="3" Grid.Row="7" VerticalAlignment="Center" Loaded="typeApplication_Loaded"/>
+        <ComboBox Name="tempPulverization" Text="Температура пульверизации" SelectedValuePath="IdTempPulverization" DisplayMemberPath="Degree" IsEditable="True" Grid.ColumnSpan="3" Grid.Row="4" VerticalAlignment="Center" Loaded="tempPulverization_Loaded"/>
+        <ComboBox Name="shine" Text="Блеск" SelectedValuePath="IdShine" DisplayMemberPath="NameShine" IsEditable="True" Grid.ColumnSpan="3" Grid.Row="5" VerticalAlignment="Center" Loaded="shine_Loaded"/>
+        <ComboBox Name="typeSurface" Text="Тип поверхности" SelectedValuePath="IdTypeSurface" DisplayMemberPath="NameTypeSurface" IsEditable="True" Grid.ColumnSpan="3" Grid.Row="6" VerticalAlignment="Center" Loaded="typeSurface_Loaded"/>
+        <ComboBox Name="RalCatalog" Text="RAL каталог" SelectedValuePath="IdRalCatalog" DisplayMemberPath="ColorRal" IsEditable="True" Grid.ColumnSpan="3" Grid.Row="3" VerticalAlignment="Center" SelectionChanged="RalCatalog_SelectionChanged" Loaded="RalCatalog_Loaded"/>
+        <TextBlock Grid.Row="2" Text="Приоритет" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Slider Name="Priority" Grid.Row="2" VerticalAlignment="Center" Grid.Column="1" Grid.ColumnSpan="2" Minimum="0" Maximum="100"/>
+
+        <Image Name="imgColor" Grid.Column="3" Grid.ColumnSpan="3" Grid.RowSpan="5"/>
+        <Button Name="AddImage" Content="Добавить изображение" FontSize="20" VerticalAlignment="Center" Click="AddImage_Click" Grid.Column="3" Grid.Row="5" Grid.ColumnSpan="3"/>
+
+        <Image Name="documentImage" Grid.Column="6" Grid.ColumnSpan="3" Grid.RowSpan="7" Source="Images/upload.png"/>
+        <Button Name="AddDocument" Content="Добавить документ" FontSize="20" VerticalAlignment="Center" Click="AddDocument_Click" Grid.Column="6" Grid.Row="7" Grid.ColumnSpan="3"/>
+    </Grid>
+</Window>

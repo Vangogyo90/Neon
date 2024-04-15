@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Paq.Controllers.AccountController">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Controllers\AccountController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Controllers.HomeController">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCGAAEAAAAAIAEBACAAAACAQoAWAIAJQkQEAAAAIAAA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.City">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAQA=</HashCode>
+      <FileName>Models\City.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.Color">
+    <Position X="11.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAkAAAAAAAQCAEQEAAAAAAAAACAAAAAAEAQEgABAA=</HashCode>
+      <FileName>Models\Color.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.ColorDelivery">
+    <Position X="13.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAACBAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAg=</HashCode>
+      <FileName>Models\ColorDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.ColorsInDelivery">
+    <Position X="13.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAgAAAAAA=</HashCode>
+      <FileName>Models\ColorsInDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.Delivery">
+    <Position X="16.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAACABAAABAAAABACBAAgAAAgAQAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Delivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.Discount">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Discount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.ErrorViewModel">
+    <Position X="10.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ErrorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.FeedBack">
+    <Position X="13.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAACAAAAAAAAAAAAAAQIgAAAAAAAABAAAAIAAACAA=</HashCode>
+      <FileName>Models\FeedBack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.LoginViewModel">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAACAAIAAAAAAAA=</HashCode>
+      <FileName>Models\LoginViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.MyDelivery">
+    <Position X="17.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\MyDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.News">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAIAgAAAAAAAABCAIAAAAAAAA=</HashCode>
+      <FileName>Models\News.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.NewsPhoto">
+    <Position X="11.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\NewsPhoto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.Pagination">
+    <Position X="14.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAgAAAAAAAAAAAAAAAAAAAAQAAAAAAgAAEAAAAAA=</HashCode>
+      <FileName>Models\Pagination.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.PayColor">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\PayColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.PhotoNews">
+    <Position X="14.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgACIAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PhotoNews.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.QuantityColor">
+    <Position X="17.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAGAAQAAAABAAAAAABCAAAgAAAAAA=</HashCode>
+      <FileName>Models\QuantityColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.RalCatalog">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAEABAEAAAAA=</HashCode>
+      <FileName>Models\RalCatalog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.Role">
+    <Position X="8.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.Shine">
+    <Position X="14.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAACAAAAAAAAAIAAAAAAAABAAAAA=</HashCode>
+      <FileName>Models\Shine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.StatusDelivery">
+    <Position X="10.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\StatusDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.TempPulverization">
+    <Position X="17.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAACAAAAAAAAAQA=</HashCode>
+      <FileName>Models\TempPulverization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.Token">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Models\Token.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.TypeApplication">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TypeApplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.TypeSurface">
+    <Position X="14.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Models\TypeSurface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.User">
+    <Position X="16.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAACoACAAAACAEAAAAAAQABiAAAAACAAAQAAAAAAE=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paq.Models.WareHouse">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAIAAAAAAAAAAgAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\WareHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

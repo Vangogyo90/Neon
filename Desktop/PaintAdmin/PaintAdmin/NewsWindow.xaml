@@ -1,0 +1,58 @@
+﻿<Window x:Class="PaintAdmin.NewsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PaintAdmin"
+        mc:Ignorable="d"
+        Title="Neon" Height="450" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <DataGrid Name="DataAPI" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="6" Grid.RowSpan="5" ColumnWidth="*" CanUserAddRows="False" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding IdNews, UpdateSourceTrigger=PropertyChanged}" Visibility="Hidden"/>
+                <DataGridTextColumn Binding="{Binding HeadingNews, UpdateSourceTrigger=PropertyChanged}" Header="Название новости" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding Date, UpdateSourceTrigger=PropertyChanged}" Header="Дата новости" IsReadOnly="True"/>
+                <DataGridTemplateColumn Header="Подробнее">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Name="More" Click="More_Click">Подробнее</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Превью">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Name="Prewiew" Click="Prewiew_Click">Превью</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Удалить">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Name="Delete" Click="Delete_Click">Удалить</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button Name="Add" Content="Добавить" FontSize="30" VerticalAlignment="Center" Click="Add_Click" Grid.Column="0" Grid.ColumnSpan="6" Grid.Row="5"/>
+    </Grid>
+</Window>

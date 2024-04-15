@@ -1,0 +1,55 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Авторизация";
+    Layout = "_Layout";
+}
+
+<form method="post"class="CallBackForm">
+    <div>
+        <label for="username">Логин:</label>
+        <input type="text" id="username" name="username" required>
+    </div>
+    <div>
+        <label for="password">Пароль:</label>
+        <input type="password" id="password" name="password" required>
+    </div>
+    <div>
+        <label for="captcha">Решите простое математическое уравнение:</label>
+        <div id="captcha_question"></div>
+        <input type="text" id="captcha" name="captcha" required>
+    </div>
+    <input type="hidden" name="returnUrl" value="@Model.ReturnUrl" />
+    <button type="submit">Войти</button>
+    <p></p>
+    <a asp-controller="Account" asp-action="Register">Нет аккаунта?</a>
+</form>
+
+<script>
+    function generateCaptchaQuestion() {
+        var num1 = Math.floor(Math.random() * 10) + 1;
+        var num2 = Math.floor(Math.random() * 10) + 1;
+        var operator = ['+', '-', '*'][Math.floor(Math.random() * 3)];
+
+        return num1 + ' ' + operator + ' ' + num2;
+    }
+    window.onload = function () {
+        document.getElementById('captcha_question').textContent = generateCaptchaQuestion();
+    };
+
+    document.getElementById('captcha_question').addEventListener('click', function () {
+        document.getElementById('captcha_question').textContent = generateCaptchaQuestion();
+    });
+
+    document.querySelector('.CallBackForm').addEventListener('submit', function (event) {
+        var captchaInput = document.getElementById('captcha').value;
+        var captchaQuestion = document.getElementById('captcha_question').textContent;
+        var answer = eval(captchaQuestion);
+
+        if (parseInt(captchaInput) !== answer) {
+            event.preventDefault();
+            alert('Неверный ответ на CAPTCHA. Попробуйте еще раз.');
+            document.getElementById('captcha').value = '';
+            document.getElementById('captcha_question').textContent = generateCaptchaQuestion();
+        }
+    });
+</script>

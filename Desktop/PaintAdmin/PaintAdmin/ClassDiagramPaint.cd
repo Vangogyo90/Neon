@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PaintAdmin.AboutNewsWindow" BaseTypeListCollapsed="true">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAASAAAAAAAAAAAAAAAAAAAAAAAABAAIAAAAAAAA=</HashCode>
+      <FileName>AboutNewsWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.AddDiscountWindow" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACCAAAAA=</HashCode>
+      <FileName>AddDiscountWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.AddNewsWindow" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="PaintAdmin.AddNewsWindow.Photo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AddNewsWindow.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddNewsWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.AddPhotoWindow" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAIAAAAgAAAAAAEAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddPhotoWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.AddProductWindow" BaseTypeListCollapsed="true">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAABAAAAAAAABAAACIAAAAACDABCAAAAAAEA=</HashCode>
+      <FileName>AddProductWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.AddQuantityColorWindow" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAIAA=</HashCode>
+      <FileName>AddQuantityColorWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.AddRalColorsWindow" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAACAAAAAAAAAAASAAAAAAAA=</HashCode>
+      <FileName>AddRalColorsWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.AdminMenu" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACgAAQQACAAAAAAAAAAUAAAAAAAAAACBAAAACA=</HashCode>
+      <FileName>AdminMenu.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.ApiClass">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="PaintAdmin.ApiClass.Request" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ApiClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIACACAAAAAAAAAAAAAEAAAAQYAAACAgAAAgAAAAAA=</HashCode>
+      <FileName>ApiClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaintAdmin.BackUpWindow" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>BackUpWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.ChangePhotoWindow" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAgAAAAAAEAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>ChangePhotoWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.CityWindow" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>CityWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.ClientManagerMenu" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientManagerMenu.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.DeliveryWindow" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAIgAAAAAAAIQABAAAABAQAgAAAACAACAAAAAAAA=</HashCode>
+      <FileName>DeliveryWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.DiscountWindow" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAABAAAAAAAAAgAACAAACAAAAQAAA=</HashCode>
+      <FileName>DiscountWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.FeedBackWindow" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAJQAAAIAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>FeedBackWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.KeyClass">
+    <Position X="15.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KeyClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaintAdmin.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.MoreDeliveryWindow" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>MoreDeliveryWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.NewsWindow" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAQAAAAACJAACAAAAAAAA=</HashCode>
+      <FileName>NewsWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.ProductWindow" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAAAAAAAAAAAAAAQAAAAACQAACACAAQAAA=</HashCode>
+      <FileName>ProductWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.RalColorsWindow" BaseTypeListCollapsed="true">
+    <Position X="22.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAQAAAAAAACAAACAAAAQAAE=</HashCode>
+      <FileName>RalColorsWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.RegistryLastUserSettings">
+    <Position X="18.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAACAAAAAgEAAAAAAAAAAiAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>RegistryLastUserSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaintAdmin.ShineWindow" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ShineWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.StatisticsWindow" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQEAAQAAgAIBAAAAAAgAMACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StatisticsWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.StatusDeliveryWindow" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>StatusDeliveryWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.Table">
+    <Position X="24.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="PaintAdmin.Table.QuantityColor" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.StatusDelivery" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.TempPulverization" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.Token" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.City" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.ColorDelivery" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.FeedBack" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.SoldColor" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.Delivery" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.Color" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.Discount" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.Role" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.PhotoNews" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.User" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.TypeSurface" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.WareHouse" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.Shine" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.TypeApplication" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.RalCatalog" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PaintAdmin.Table.News" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Table.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaintAdmin.TempPulvirizationWindow" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAAAAAAAAAAACAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>TempPulvirizationWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.TypeApplicationWindow" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAIAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>TypeApplicationWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.TypeSurfaceWindow" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAgAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TypeSurfaceWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.UpdateDiscountWindow" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAIAgAAAAAAAAACAQAAA=</HashCode>
+      <FileName>UpdateDiscountWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.UpdateProductWindow" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAABAUABAAAAAAAACIAICAAGDABAAAAAAAEA=</HashCode>
+      <FileName>UpdateProductWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.UpdateQuantityColorWindow" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAABCAAACAAQIgA=</HashCode>
+      <FileName>UpdateQuantityColorWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.UpdateRalWindow" BaseTypeListCollapsed="true">
+    <Position X="22.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAgAAAAAQAAAAAAACAAAAAAAAAAAQAAAAQAAA=</HashCode>
+      <FileName>UpdateRalWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.UpdateUserWindow" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAACAAAAAAAAABAAAAAAEAAAAAAQAAA=</HashCode>
+      <FileName>UpdateUserWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.UserWindow" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAAAAAAAAAACAAAAAAAAACAAAAAAAAQAAA=</HashCode>
+      <FileName>UserWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.WareHouseMenu" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAEAAAQAAAAACAAACAAAAQAAA=</HashCode>
+      <FileName>WareHouseMenu.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PaintAdmin.WareHouseWindow" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAIAAI=</HashCode>
+      <FileName>WareHouseWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

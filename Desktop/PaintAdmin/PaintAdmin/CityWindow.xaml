@@ -1,0 +1,41 @@
+﻿<Window x:Class="PaintAdmin.CityWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PaintAdmin"
+        mc:Ignorable="d"
+        Title="Neon" Height="450" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <DataGrid Name="DataAPI" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="6" Grid.RowSpan="6" ColumnWidth="*" CanUserAddRows="True" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" CellEditEnding="DataAPI_CellEditEnding" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding IdCity, UpdateSourceTrigger=PropertyChanged}" Visibility="Hidden"/>
+                <DataGridTextColumn Binding="{Binding NameCity, UpdateSourceTrigger=PropertyChanged}" Header="Название города"/>
+                <DataGridTemplateColumn Header="Удалить">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Name="Delete" Click="Delete_Click">Удалить</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
